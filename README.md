@@ -106,3 +106,6 @@ import "./src/assets/styles/tailwind.css"
 ```
 
 By [Lucas S B Gomes](https://github.com/lucassbgomes)
+
+
+>These tips were created from some videos: [Configurando projeto Gatsby | Behind the Code #09](https://www.youtube.com/watch?v=Z88SWjN6Yj0) made by [Diego Fernandes](https://github.com/diego3g) and João Pedro from the [Rocketseat](https://www.youtube.com/channel/UCSfwM5u0Kce6Cce8_S72olg) channel; and [Gatsby.js with Tailwind CSS and PurgeCSS](https://www.youtube.com/watch?v=d0v_ouu5mqU) from the [Code Bushi](https://www.youtube.com/channel/UCS6lPt9btmTG3GkU82ELygA) channel.
