@@ -46,7 +46,7 @@ module.exports = {
 | Sitemap | [gatsby-plugin-sitemap](https://www.gatsbyjs.org/packages/gatsby-plugin-sitemap/?=gatsby-plugin-sitemap) |
 | Styled Components `*` | [gatsby-plugin-styled-components](https://www.gatsbyjs.org/packages/gatsby-plugin-styled-components/?=gatsby-plugin-styled-components) |
 | Page Creator `*` | [gatsby-plugin-page-creator](https://www.gatsbyjs.org/packages/gatsby-plugin-page-creator/?=gatsby-plugin-page-creator) |
-| Transformer Sharp | [gatsby-transformer-sharp](https://www.gatsbyjs.org/packages/gatsby-plugin-transformer-sharp/?=gatsby-plugin-transformer-sharp) |
+| Transformer Sharp | [gatsby-transformer-sharp](https://www.gatsbyjs.org/packages/gatsby-transformer-sharp/?=transformer-sharp) |
 | Offline | [gatsby-plugin-offline](https://www.gatsbyjs.org/packages/gatsby-plugin-offline/?=gatsby-plugin-offline) |
 *`*`Install plugin when using `styles.js` in page folders*
 
