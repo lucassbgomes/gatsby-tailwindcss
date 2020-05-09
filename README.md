@@ -2,7 +2,7 @@
 
 ### New project
 ```sh
-$ gatsby new site_folder https://github.com/gatsbyjs/gatsby-starter-hello-world
+$ npx gatsby new site_folder https://github.com/gatsbyjs/gatsby-starter-hello-world
 ```
 ### Create siteMetadata in a separate file
 ```js
